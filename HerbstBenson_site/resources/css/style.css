@@ -1,0 +1,49 @@
+body {
+
+}
+
+div {
+  /*border: 1px solid red;*/
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+}
+
+h1, h2, h3 {
+  font-family: "Merriweather," "serif";
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 30pt;
+}
+
+h2 {
+  font-weight: 900;
+  font-size: 25pt;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 16pt;
+}
+
+p, ul {
+  font-family: "Montserrat", "Helvetica", "sans-serif";
+}
+
+.feature {
+  font-size: 18pt;
+}
+
+.banner {
+  height: 200px;
+  align-items: center;
+  text-align: center;
+}
